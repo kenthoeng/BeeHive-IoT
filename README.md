@@ -89,7 +89,6 @@ The fuzzy logic rules for the BeeHive-IoT system are summarized in the table bel
 <details>
 <summary>📸 Click to view project images screenshots</summary>
 
-### Gambar 1: Diagram Sistem
 #### 1.1 Time Series
 ![Time Series](https://drive.google.com/uc?export=view&id=1JXIzI2ncv2yC1AUmxR7-DbqWJHvqFe6_ "Time Series Visualization")
 
