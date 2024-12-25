@@ -71,16 +71,23 @@ We have created a comprehensive simulation for the BeeHive-IoT system using [Wok
 
 👉 **[Click here to access the BeeHive-IoT simulation on Wokwi](https://wokwi.com/projects/418281998770483201)** 👈
 
-### How to Use the Simulation??
+##### How to Use the Simulation??
 1. Open the link above to access the Wokwi simulation.
 2. Click the "Play" button to start the simulation.
 3. Observe how the system processes real-time data from sensors and controls actuators.
 4. You can modify parameters and observe the changes in real-time.
+
+#### 🧮 Fuzzy Logic Table
+
+The fuzzy logic rules for the BeeHive-IoT system are summarized in the table below. You can view the complete table using the link provided:
+
+👉 **[View the Fuzzy Logic Table](https://docs.google.com/spreadsheets/d/1tThHtKpzb3YT8QnAvS7F9jbR-GHrLb2lmgF3lHkSlvA/edit?usp=sharing)** 👈
+
 ---
 
 ### Screenshots
 <details>
-<summary>📸 Click to view project images screenshot</summary>
+<summary>📸 Click to view project images screenshots</summary>
 
 ### Gambar 1: Diagram Sistem
 #### 1.1 Time Series
@@ -99,6 +106,14 @@ We have created a comprehensive simulation for the BeeHive-IoT system using [Wok
 ![Database](https://drive.google.com/uc?export=view&id=1rA9w03WqP7MsPtx0izTKoFlAp1VMUNHw "Database Structure")
 
 </details>
+
+---
+
+### 📹 System Explanation Video
+
+Learn more about the BeeHive-IoT system by watching this video:
+
+👉 [BeeHive-IoT System Explanation on YouTube](https://youtu.be/9F7kwdK-8Hs) 👈
 
 ---
 
