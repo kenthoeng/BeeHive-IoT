@@ -1,0 +1,29 @@
+{
+    "name": "myproject/php-ml-integration",
+    "description": "PHP IoT Dashboard with Machine Learning integration.",
+    "type": "project",
+    "require": {
+        "php-ai/php-ml": "^0.10.0",
+        "php-mqtt/client": "^2.2",
+        "influxdata/influxdb-client-php": "^3.6",
+        "guzzlehttp/guzzle": "^7.9",
+        "php-http/guzzle7-adapter": "^1.1"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Myproject\\PhpMlIntegration\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Hamnurz"
+        }
+    ],
+    "minimum-stability": "stable",
+    "config": {
+        "allow-plugins": {
+            "php-http/discovery": true
+        }
+    }
+}
